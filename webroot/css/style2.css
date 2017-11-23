@@ -1,0 +1,47 @@
+body{
+	background: url('../img/human-vs-robot.png') no-repeat ;
+	background-size:100%;
+	background-color: #929292; /*rgba(0, 0, 0, 0.5);*/
+}
+
+.well {
+	background-color: rgba(245, 245, 245, 0.5);
+	border: 1px solid rgba(245, 245, 245, 0.65);
+}
+
+.nav-bar-custom {
+	background-color: rgba(0, 0, 0, 0.2);
+	border: none;
+}
+
+.logo-img{
+	margin:0px;
+	font-family: 'Mr De Haviland';
+	font-size: 36px;
+	color:#E81F1F;
+/*        @import "bootstrap-red.css";*/
+	font-weight: bold;
+}
+
+
+.border-tst {
+	border: 1px solid #000;
+}
+
+.fixed-footer {
+    position: fixed;
+    height: auto;
+    bottom: 0;
+    width: 100%;
+	opacity: 0.6;
+	
+	background-color: #000;
+}
+.fixed-footer:hover{
+    opacity: 1;
+}
+
+.fixed-footer #mh1{ text-align: left;}
+.fixed-footer #chat1{ text-align: left;}
+.fixed-footer #mh2{ text-align: right;}
+.fixed-footer #deal11{ text-align: right;}

@@ -1,0 +1,1 @@
+is_closed,updated - Rotation table

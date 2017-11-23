@@ -1,0 +1,18 @@
+{
+    "name": "pitkrew",
+    "require": {
+        "cakephp/cakephp": "2.6.*",
+        "cakephp/debug_kit": "2.*",
+        "FriendsOfCake/crud": "3.*",
+        "slywalker/boost_cake": "*",
+        "maurymmarques/minify-plugin": "dev-master",
+        "cakedc/search": "dev-master",
+        "cakedc/utils":"dev-master",
+        "josegonzalez/cakephp-upload": "dev-master",
+        "lorenzo/cakephp-email-queue": "1.*",
+        "iamthom/audit-log": "dev-master"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }   
+}

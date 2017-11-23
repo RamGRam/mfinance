@@ -1,0 +1,9 @@
+.form-group.required label:after {
+    content:"*";
+    color: #dd4b39;
+    padding-left: 3px;
+}
+
+.login-box .form-group.required span.glyphicon {
+    color: #dd4b39;
+}

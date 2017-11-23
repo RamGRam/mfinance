@@ -1,0 +1,163 @@
+/* .bg-setting{
+	background-image: url('http://192.168.0.53/nkars-vp/lp2/img/slide/follow-neigh.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+} 
+html { 
+  background: url('http://192.168.0.53/nkars-vp/lp2/img/slide/follow-neigh.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body, h1, h2, h3, h4, h5, h6, p, div, a{
+	#color: rgb(245,245,245) !important;
+}
+
+
+*/
+
+body{
+	background-color: rgba(0, 0, 0, 0.85) !important;
+	color: #333 !important;
+}
+
+.nav-bar-custom{
+	background-color: rgba(0, 0, 0, 0.2) !important;
+	border: none !important;
+}
+
+.nbc_a{
+	color: #fff !important;
+}
+
+.open .nbc_a{
+	color: #333 !important;
+}
+
+
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+  opacity:0.70;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+.well, .jumbotron{
+	background-color: rgba(255,255,255,0.70) !important;
+/*	background-color: rgba(0,0,0,0.25) !important;*/
+}
+
+.media .well {
+	background-color: rgba(255,255,255,0.50) !important;
+	border: 1px solid #fff;
+}
+
+.carousel-inner .item{
+	padding-top: 12% !important;
+}
+
+.lp-caption h3
+{
+    font-family: Expletus Sans;
+    font-size: 45px;
+	font-weight: 700;
+	letter-spacing: 0px;
+	text-transform: uppercase;
+}
+.lp-caption h3, p {
+	color: rgb(255,255,255) !important;
+	line-height: 1.1;
+}
+.lp-caption {
+	font-family: 'Open Sans', sans-serif;
+}
+.lp-caption  .label, p
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: -0.03em;
+}
+.carousel-control span{
+	padding-top: 35% !important;
+}
+
+.hp_rcmd_btn{
+    position: relative;
+    bottom: 10%;
+}
+
+.well .list-group-item-text{
+	color: #333 !important;
+	font-weight: 800;
+}
+
+.smaller{
+	font-size: 80%;
+}
+
+legend, .form-control {
+	color: #333 !important;
+}
+
+p.heading {
+	color: rgb(255,255,255) !important;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+p.jumbotron{
+    color: #333 !important;
+}
+
+.star-rating {
+	padding-top: 10px;
+}
+
+.glyphicon-star, .glyphicon-star-empty {
+	font-size: 200%;
+	color: #a91b0c;
+}
+
+.plink{
+	color: #fff;
+}
+
+fieldset fieldset legend{
+	font-size:16px;
+	border:none;
+	margin-bottom:5px;
+}
+
+.lp-caption h3{
+	font-family: 'open sans' !important;
+}
+.hp_rcmd_btn{
+	background-color: rgba(231, 37, 16, 0.7) !important;
+}
+.carousel-control.left, .carousel-control.right{
+	background-image: none !important;
+}
+.uppercase{text-transform:uppercase}
+
+p.variant_name{
+    color: #333 !important;
+}
+
+.nav>li>a{
+	color: #fff;
+}
