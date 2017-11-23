@@ -1,2 +1,0 @@
-# mfinance
-Manju Finance
